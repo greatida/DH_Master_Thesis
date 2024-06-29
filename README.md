@@ -9,7 +9,7 @@ The xlsx is a detailed dataset where I calulate the scores of accuracy, precison
 
 **Descriptive analysis** and **Comparative analysis** used **Brahe-Novels** dataset, the secondary data sourced from the Hugging Face, a publicly available dataset stored in the public domain, with free usage and download permissions. License: cc0-1.0.
 
-Particularly, for the **multilingual analysis**, it used primary data sourced from Archive of Our Own (AO3), the content cannot be reshared outside AO3 without consent of the authors, thus in the multilingual analysis, only links are included.
+Particularly, for the **multilingual analysis**, it used primary data sourced from Archive of Our Own (AO3), the content cannot be reshared outside AO3 without consent of the authors, thus in the multilingual analysis, only links to the stories are included.
 
 ## Description of the Notebooks
 
