@@ -13,7 +13,7 @@ Particularly, for the **multilingual analysis**, it used primary data sourced fr
 
 ## Description of the Notebooks
 
-In the **Notebook** folder, there are also three sub-folders for each analysis, including 10 ipynb files, recording analysis procedures comprehensively, such as creating visualizations, calculating frequencies, install the **Brahe-AWQ** LLM to output narrative elements and calculating **BERTScores**.
+In the **Notebooks** folder, there are also three sub-folders for each analysis, including 10 ipynb files, recording analysis procedures comprehensively, such as creating visualizations, calculating frequencies, install the **Brahe-AWQ** LLM to output narrative elements and calculating **BERTScores**.
 
 For example:
 
