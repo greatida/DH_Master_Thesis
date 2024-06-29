@@ -1,5 +1,5 @@
 # Narrative Analysis with Large Language Models
-This repository contains data and codes for the quantitative analysis of my thesis. The quantitative analysis includes three analysis, respectively descriptive analysis, multilingual analysis and comparative analysis.
+This repository contains data and codes for the quantitative analysis of my thesis. The quantitative analysis includes three analyses, respectively descriptive analysis, multilingual analysis and comparative analysis.
 
 ## Description of the Dataset
 
