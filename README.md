@@ -2,6 +2,7 @@
 This repository contains data and codes for the quantitative analysis of my thesis. The quantitative analysis includes three analysis, respectively descriptive analysis, multilingual analysis and comparative analysis.
 
 ## Description of the Dataset
+
 In the **Dataset** folder, there are three sub-folders for each analysis, including 9 csv files and 1 xlsx file. 
 
 The xlsx is a detailed dataset where I calulate the scores of accuracy, precison, recall and F1 score through close reading. The color orange represents False Negatives, reflecting the number of narrative elements that the model predicted that were either partially accurate or missed some details. The color red represents False Positives, reflecting the number of narrative elements that the model predicted inaccurately.
@@ -12,7 +13,7 @@ Particularly, for the **multilingual analysis**, it used primary data sourced fr
 
 ## Description of the Notebooks
 
-In the **Notebook** folder, there are also three sub-folders for each analysis, including 9 ipynb files, recording analysis procedures comprehensively, such as creating visualizations, calculating frequencies, install the **Brahe-AWQ** LLM to output narrative elements and calculating **BERTScores**.
+In the **Notebook** folder, there are also three sub-folders for each analysis, including 10 ipynb files, recording analysis procedures comprehensively, such as creating visualizations, calculating frequencies, install the **Brahe-AWQ** LLM to output narrative elements and calculating **BERTScores**.
 
 For example:
 
