@@ -22,7 +22,7 @@ For example:
 `5_14_Multilingual_Analysis` records the procedures of importing and installing "Brahe-AWQ" LLM, inputting excerpts and making it output narrative elements.
 
 ## References
-Langlais, P. C. (2023, Novemeber 2).Brahe-AWQ. *Hugging Face*. https://huggingface.co/Pclanglais/Brahe-AWQ
+Langlais, P. C. (2023, Novemeber 2). Brahe-AWQ. *Hugging Face*. https://huggingface.co/Pclanglais/Brahe-AWQ
 
 Langlais, P. C. (2023, Novemeber 2). Brahe Novels. *Hugging Face*. https://huggingface.co/datasets/Pclanglais/Brahe-Novels
 
