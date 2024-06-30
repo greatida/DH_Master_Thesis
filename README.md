@@ -19,6 +19,8 @@ For example:
 
 `Bertscore_Descriptive_Analysis` records the analysis of calculating Bertscores.
 
+`Descriptive Analysis_visualizations` includes data visualizations.
+
 `5_14_Multilingual_Analysis` records the procedures of importing and installing "Brahe-AWQ" LLM, inputting excerpts and making it output narrative elements.
 
 ## References
