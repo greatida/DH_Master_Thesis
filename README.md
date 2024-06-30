@@ -7,7 +7,7 @@ In the **Dataset** folder, there are three sub-folders for each analysis, includ
 
 The xlsx is a detailed dataset where I calulate the scores of accuracy, precison, recall and F1 score through close reading. The color orange represents False Negatives, reflecting the number of narrative elements that the model predicted that were either partially accurate or missed some details. The color red represents False Positives, reflecting the number of narrative elements that the model predicted inaccurately.
 
-**Descriptive analysis** and **Comparative analysis** used **Brahe-Novels** dataset, the secondary data sourced from the Hugging Face, a publicly available dataset stored in the public domain, with free usage and download permissions. License: cc0-1.0.
+**Descriptive analysis** and **Comparative analysis** used **Brahe-Novels** dataset, the secondary data sourced from the Hugging Face, a publicly available dataset stored in the public domain, with free usage and download permissions. `License: cc0-1.0`.
 
 Particularly, for the **multilingual analysis**, it used primary data sourced from Archive of Our Own (AO3). The content cannot be reshared outside AO3 without consent of the authors, thus in the multilingual analysis, only links to the stories are included.
 
